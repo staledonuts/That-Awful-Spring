@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FirstScene.unity
+    guid: d949b0bcfa123d04e93ba7d91b250b37
+  - enabled: 1
+    path: Assets/Scenes/WakeupScene.unity
+    guid: 3cc6765983b1db8449c84b73ece292b2
+  - enabled: 1
+    path: Assets/Scenes/ParentsRoom.unity
+    guid: 7cc3853534123c240851e52ae97ced01
+  - enabled: 1
+    path: Assets/Scenes/Minigames/MG_Car.unity
+    guid: ebfb00fe4c736124fa87a03e481b9324
+  - enabled: 1
+    path: Assets/Scenes/Minigames/MG_Homework.unity
+    guid: 162162c833a76c944ab96665b4e83fb7
+  - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: d29018f5db4e7ec428ce925c5505d3b2
+  - enabled: 1
+    path: Assets/Scenes/KidsRoom.unity
+    guid: b9524e97b11f84344a50c0b2175fee08
+  - enabled: 1
+    path: Assets/Scenes/UpstairsHallway.unity
+    guid: 6b565e464a78b3942ba68c56e5794b5f
+  - enabled: 1
+    path: Assets/Scenes/Outside.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Minigames/MG_Kappla.unity
+    guid: 817b1b4c59065b24681542841ba0eb16
+  - enabled: 1
+    path: Assets/Scenes/Minigames/MG_Swinging.unity
+    guid: 5f9491a55e300054983f01608fee20ab
+  - enabled: 1
+    path: Assets/Scenes/MainHallway.unity
+    guid: 67bc79be4db9c174182a15ebf1c7b662
+  - enabled: 1
+    path: Assets/Scenes/SecondLevel.unity
+    guid: 01be6ecc2491dcb478e668b890602a97
+  - enabled: 1
+    path: Assets/Scenes/LastScene.unity
+    guid: 4a2ea65a72ad0c245948e4cab9bce5bc
+  m_configObjects: {}
