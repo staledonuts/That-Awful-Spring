@@ -7,6 +7,7 @@ public class MinigamePrompt : MonoBehaviour
 {
     [SerializeField] private SpriteRenderer buttonPrompt;
     private AudioSource _doorSound;
+    [SerializeField] private string minigameName;
     private float _distanceToDoor = 1.5F;
     private float _promptTime;
 
